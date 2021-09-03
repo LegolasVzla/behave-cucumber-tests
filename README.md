@@ -10,6 +10,7 @@ Clone this project:
 Install ```requirements.py```
 
 	pip install -r requirements.txt
+	source env/bin/activate
 
 # Run Calculator
 
